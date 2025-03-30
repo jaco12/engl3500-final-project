@@ -1,0 +1,7 @@
+﻿Thinking about the basic gameloop was one of the first things I did in the process of creating my game, and in the notes of my previous homework assignment submission (final_project_notes_and_inspo.pdf), I feel that I’m able to describe it well. The most basic experience in my game is frankly clicking squares. However, my goal is to add supplementary elements to this basic game loop in order to heighten the player’s experience and “create a world” for my player.
+
+
+Thinking on how to do this, however, is a little difficult considering that my basic gameloop is so simple and so detached from what it represents. It might be a little difficult to create a “sensorium” for my player since the sensory experience of clicking squares is not representative of the sensory experience of military drone strikes. Although this could work well in conveying certain themes in my game, and emphasize the fact that many people are distanced from the reality of bombings and drone strikes.
+
+
+There are still a few things that I can do to try and create a world for my player. One of my ideas is to add certain messages that the player will get from other characters in the game. Some will provide backstory on the hostages, in an attempt to add more emotional stake to the hostages that die as collateral damage. Some other messages might also provide more nuance on the enemies, to paint a more complex picture of them, rather than maintain a more straightforward “evil villian” identity.
