@@ -42,9 +42,3 @@ func init_square(square_type, x, y) -> void:
 func _process(delta):
 	if Input.is_action_just_pressed("space"):
 		init_board(5, 5, 25)
-	#var mouse_pos = get_global_mouse_position()
-	#var mouse_row = int(mouse_pos.y) / 200
-	#var mouse_col = int(mouse_pos.x) / 200
-	#var tile_num = mouse_row * 5 + mouse_col
-	#while tile_num tiles[tile_num].texture.resource_path == "res://assets/hostage.png":
-		#tiles[tile_num].texture = load("res://assets/hostage_red.png")
