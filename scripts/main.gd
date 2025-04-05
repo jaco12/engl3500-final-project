@@ -1,5 +1,7 @@
 extends Node2D
 
+var tileboard = []
+
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	init_board(5, 5, 25)
@@ -36,6 +38,7 @@ func init_square(square_type, x, y) -> void:
 	
 	sprite.position = Vector2(x, y)
 	add_child(sprite)
+	tileboard.append(sprite)
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.

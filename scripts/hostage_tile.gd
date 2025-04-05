@@ -8,7 +8,6 @@ func _ready():
 	hover_texture = load("res://assets/hostage_red.png")
 	texture = default_texture
 	super._ready()
-	
 
 func _on_mouse_entered():
 	super()
