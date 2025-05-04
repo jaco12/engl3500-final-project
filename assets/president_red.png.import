@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vbp2ihiuxjyd"
-path="res://.godot/imported/enemy.png-63f114c7bb3f2105c232c34f647cbc2d.ctex"
+uid="uid://biygdn5wbfdfl"
+path="res://.godot/imported/president_red.png-b8cfbaae93f25c0c1275bd8279864a1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemy.png"
-dest_files=["res://.godot/imported/enemy.png-63f114c7bb3f2105c232c34f647cbc2d.ctex"]
+source_file="res://assets/president_red.png"
+dest_files=["res://.godot/imported/president_red.png-b8cfbaae93f25c0c1275bd8279864a1f.ctex"]
 
 [params]
 

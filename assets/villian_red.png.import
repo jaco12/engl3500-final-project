@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vbp2ihiuxjyd"
-path="res://.godot/imported/enemy.png-63f114c7bb3f2105c232c34f647cbc2d.ctex"
+uid="uid://dc0wrm6eotlej"
+path="res://.godot/imported/villian_red.png-b8c6042145457abc37537de9db0d74e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemy.png"
-dest_files=["res://.godot/imported/enemy.png-63f114c7bb3f2105c232c34f647cbc2d.ctex"]
+source_file="res://assets/villian_red.png"
+dest_files=["res://.godot/imported/villian_red.png-b8c6042145457abc37537de9db0d74e2.ctex"]
 
 [params]
 
