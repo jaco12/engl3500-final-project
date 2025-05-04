@@ -40,6 +40,7 @@ theme_override_constants/margin_right = 20
 theme_override_constants/margin_bottom = 20
 
 [node name="MissionDebriefLabel" type="Label" parent="Control/MarginContainer"]
+visible = false
 custom_minimum_size = Vector2(460, 925)
 layout_mode = 2
 text = "Operator,
@@ -90,12 +91,10 @@ theme_override_constants/margin_right = 20
 theme_override_constants/margin_bottom = 20
 
 [node name="MissionDetailsLabel" type="Label" parent="Control/MarginContainer2"]
-visible = false
 custom_minimum_size = Vector2(460, 925)
 layout_mode = 2
 text = "[TOP SECRET // EYES ONLY]
-UNITED STATES JOINT SPECIAL OPERATIONS COMMAND
-OPERATIONAL BRIEFING DOCUMENT
+U.S. JSOC OPERATIONAL BRIEFING DOCUMENT
 BRIEFING OFFICER: General M. Stosky
 RECIPIENT: Operator ███████ – Remote Tactical Unit 9A
 OPERATION CODE NAME: SILENT VERDICT
@@ -115,6 +114,8 @@ II. MISSION DIRECTIVES
 [Primary Directive]
 Destroy the facility and all hostile threats inside. Prevent any further operations or propaganda usage by Black Moon faction.
 You are cleared to fire regardless of presence of civilians or hostages. High Command accepts all collateral implications.
+
+Click anywhere in the grid to deploy the missile.
 
 [Secondary Directive (Discretionary)]
 While Eclipse is not the primary mission priority, his elimination is considered a strategic advantage. If a strike vector includes Eclipse without compromising the broader objective, you are authorized to act."
